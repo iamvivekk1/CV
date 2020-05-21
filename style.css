@@ -1,0 +1,38 @@
+body{
+  background-color:#f7e8f0;
+  }
+
+  hr{
+    border-top-style: groove;
+    border-bottom-style:none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #f37121;
+    border-width:5px;
+    border-height:5px;
+  }
+h1{
+  color: #45046a;
+}
+h2{
+  color: #562349;
+}
+.favourite{
+  text-align:center;
+}
+.links{
+  border-color:#fee2b3;
+  border-style: none;
+}
+.animals{
+  border-style: groove;
+}
+.img1{
+  background-color: blue;
+}
+.img2{
+  background-color:white;
+}
+.img3{
+  background-color:red;
+}
